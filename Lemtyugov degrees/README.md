@@ -11,9 +11,7 @@
  Описание проекта
 | Наименование проекта | Описание | Навыки и инструменты  |
 | :--------------------: | :---------------------: |:---------------------------:|
-| [Lemtyugov degrees - Расчет "числа Лемтюгова"](https://github.com/ekaterina-zakharova/Pet-projects/blob/main/Lemtyugov%20degrees/Ekaterina_Zakharova_Lemtyugov_20230727_rev_ipynb_Rev_2.ipynb) | В ходе выполнения проекта были произведены следующие работы:
-
-- обработка исходных данных
+| [Lemtyugov degrees - Расчет "числа Лемтюгова"](https://github.com/ekaterina-zakharova/Pet-projects/blob/main/Lemtyugov%20degrees/Ekaterina_Zakharova_Lemtyugov_20230727_rev_ipynb_Rev_2.ipynb) | В ходе выполнения проекта были произведены следующие работы: - обработка исходных данных
 
 - анализ подготовленных данных в разрезе интересующих нас параметров
 
