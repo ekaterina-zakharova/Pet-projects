@@ -4,12 +4,12 @@
 
 Создать Дашборд с актуальными вакансиями для Data Аналитиков по каждому ресурсу с вакансиями. 
 
-[Ссылка на Дашборд]([https://disk.yandex.ru/i/zi1TwsztFS6BWA](https://datalens.yandex.ru/heiqv3mk0k4k6-dream-parse-dashboard?state=e94b1d68113))
+[Ссылка на Дашборд](https://datalens.yandex.ru/heiqv3mk0k4k6-dream-parse-dashboard?state=e94b1d68113)
 
  Описание проекта
 | Наименование проекта | Описание | Навыки и инструменты  |
 | :--------------------: | :---------------------: |:---------------------------:|
-| [Dream Parse Dashboard"]((https://datalens.yandex.ru/heiqv3mk0k4k6-dream-parse-dashboard?state=e94b1d68113)) | В ходе выполнения проекта были произведены следующие работы: подключение к базе данных, обработка исходных данных, построение визуализаций и сборка Дашборда со всеми необходимым фильтрами | *DataLens, ClickHouse* |
+| [Dream Parse Dashboard"](https://datalens.yandex.ru/heiqv3mk0k4k6-dream-parse-dashboard?state=e94b1d68113) | В ходе выполнения проекта были произведены следующие работы: подключение к базе данных, обработка исходных данных, построение визуализаций и сборка Дашборда со всеми необходимым фильтрами | *DataLens, ClickHouse* |
 
 **Выводы по проекту**:
 
